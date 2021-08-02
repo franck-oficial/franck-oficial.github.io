@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Hola mundo</h1>
-    <p>Éste portafolio es una prueba del portafolio Franck Vela</p>
+    <p>Éste portafolio es una prueba del portafolio Franck Vela en PHP</p>
 </body>
 </html>
